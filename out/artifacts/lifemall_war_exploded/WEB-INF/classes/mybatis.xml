@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <typeAliases>
+        <!-- admin信息管理
+        <typeAlias alias="customer" type="com.lei123.build.customer.Customer"/>
+        -->
+    </typeAliases>
+    <mappers>
+        <!-- admin信息管理xml
+        <mapper resource="com/lei123/build/customer/Customer.xml"/>
+         -->
+    </mappers>
+</configuration>
